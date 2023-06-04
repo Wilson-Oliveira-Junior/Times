@@ -80,9 +80,7 @@
 </div>
 
 <div class="panel-body">
-
 <div class="form-group">
-
 </div>
 
 <table class="table table-bordered table-hover">
